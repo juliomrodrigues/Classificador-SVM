@@ -52,6 +52,7 @@ classificador_svm = pickle.load(open('classificador_svm.sav', 'rb'))
 
 ~~~~~
 4. Pronto, agora o classficador está pronto para ser usado.
+5. Se desejar treinar um novo classificador, faça o download do arquivo de treinamento e execute novas combinações de pré-processamentos e parâmetros [aqui](https://github.com/juliomrodrigues/Classificador-SVM/blob/main/treinamento_classificador_svm.py).
 
 #### Outros Classificadores:
 - [Naive Bayes](https://github.com/juliomrodrigues/Classificador-Naive-Bayes)
