@@ -27,7 +27,7 @@ A Matriz na tabela acima é formada pela média de todas as matrizes geradas ao 
 
 A diagonal principal (em negrito) destaca os registros classificados corretamente.
 
-### Especificações dos parametros usados:
+### Especificações dos parâmetros usados:
 - SVC(kernel = 'linear', random_state = 1)
 
 ### Bibliotecas usadas:
