@@ -28,7 +28,7 @@ A Matriz na tabela acima é formada pela média de todas as matrizes geradas ao 
 A diagonal principal (em negrito) destaca os registros classificados corretamente.
 
 ### Especificações dos parametros usados:
-SVC(kernel = 'linear', random_state = 1)
+- SVC(kernel = 'linear', random_state = 1)
 
 ### Bibliotecas usadas:
 - Pandas
